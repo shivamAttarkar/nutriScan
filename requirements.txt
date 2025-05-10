@@ -1,0 +1,13 @@
+requests
+pandas
+tqdm
+numpy
+scikit-learn
+flask
+nltk
+joblib
+opencv-python
+easyocr
+Pillow
+torch
+torchvision

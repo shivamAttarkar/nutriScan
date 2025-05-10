@@ -12,7 +12,7 @@
             </div>
             <p class="mb-5 text-xl italic">
                 <span>Packet Pe Likha Har Shabd Padhne Ki Zarurat Nahi</span>
-                <br />Nutri Scan Hai Na, Sab Bataa Dega Bhai! Healthify
+                <br />Nutri Scan Hai Na, Sab Bataa Dega Bhai! NutriScan
             </p>
             <button class="btn btn-primary" onclick={() => goto("/predict")}
                 >Get Started</button
