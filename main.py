@@ -94,7 +94,7 @@ def predict():
     image = imagefile.read()
 
     extracted_text = extract_text_from_image(image)
-    print(cleanText(extracted_text))
+    # print(cleanText(extracted_text))
     ingredients_text = preprocess_input_text(extracted_text)
 
     ingredients_list = re.split(r',|\n', extracted_text)
